@@ -1,1 +1,7 @@
 teamAccess: opennet-developers
+dev:
+    namespace: wsit-opennet-payments-dev
+gitOrg: WSIT-OPENNET-PYMT
+nexusRawNamespace: '1111111'
+PRApproversPSIds: '111,222,333,444'
+
