@@ -1,0 +1,3 @@
+maven:
+    options: 
+        jdk17: -Dmaven.repo.local=/ds_build_new/maven_cache_jdk17 -s /ds_build_new/custom_settings/nx3_instances_gcp.xml
